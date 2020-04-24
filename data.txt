@@ -3,3 +3,9 @@
   extension: csv
   description: Some raw data
   type: files
+- path: processed_data
+  name: processed_data
+  rows: 2
+  cols: 3
+  description: Something expensive to recreate
+  type: table
