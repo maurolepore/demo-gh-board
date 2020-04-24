@@ -4,8 +4,8 @@ path:
 rows: 2
 cols: 3
 columns:
-  x: numeric
-  'y': character
+  x: integer
+  'y': factor
   new_column: character
 description: Something expensive to recreate
 type: table
