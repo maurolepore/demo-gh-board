@@ -6,6 +6,6 @@ cols: 3
 columns:
   x: integer
   'y': factor
-  new_column: character
+  new_column: factor
 description: Something expensive to recreate
 type: table
