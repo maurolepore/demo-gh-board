@@ -1,1 +1,5 @@
-[]
+- path: some_data
+  name: some_data
+  extension: csv
+  description: Some raw data
+  type: files
